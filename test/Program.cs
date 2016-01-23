@@ -13,6 +13,8 @@ namespace test
             System.Console.WriteLine(a);
             var b = 20;
             Console.WriteLine(b);
+            var c = 40;
+            Console.WriteLine(c);
         }
     }
 }
