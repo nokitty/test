@@ -9,6 +9,8 @@ namespace test
     {
         static void Main(string[] args)
         {
+            var b = 20;
+            Console.WriteLine(b);
         }
     }
 }
